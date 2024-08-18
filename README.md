@@ -1,6 +1,6 @@
 Hi, I’m @Alexander-Evans-Moncloa
 
-Interested MOSTLY in computer vision and control/path planning algorithms for applications in robotics. Python and C++ are the primary languages for these tasks (depending on complexity and hardware available).
+Interested MOSTLY in computer vision and control/path planning algorithms for applications in robotics. Python and C++ are the primary languages for these tasks (depending on complexity and hardware available). Some SystemVerilog for FPGAs.
 
 Also dabbling a bit into HTML, SQL, CSS and SQL in order to run an ecommerce website, linked to a database to improve personalisation of my business.
 
